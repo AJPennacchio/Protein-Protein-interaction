@@ -1,0 +1,4 @@
+#node1	node2	node1_string_id	node2_string_id	homology	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Agt	Npepps	10090.ENSMUSP00000066488	10090.ENSMUSP00000001480	0	0	0	0.538	0.538
+Angpt1	Npepps	10090.ENSMUSP00000022921	10090.ENSMUSP00000001480	0	0	0	0.452	0.452
+Npepps	Sort1	10090.ENSMUSP00000001480	10090.ENSMUSP00000123564	0	0	0	0.513	0.513

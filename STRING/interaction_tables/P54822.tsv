@@ -1,0 +1,2 @@
+#node1	node2	node1_string_id	node2_string_id	homology	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Adsl	Ppat	10090.ENSMUSP00000023043	10090.ENSMUSP00000120632	0	0	0	0.480	0.480

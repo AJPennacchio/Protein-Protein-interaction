@@ -1,0 +1,4 @@
+#node1	node2	node1_string_id	node2_string_id	homology	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Pdxk	Pdxp	10090.ENSMUSP00000038540	10090.ENSMUSP00000086796	0	0	0.900	0	0.900
+Pdxk	Phospho2	10090.ENSMUSP00000038540	10090.ENSMUSP00000136471	0	0	0.900	0	0.900
+Pdxp	Phospho2	10090.ENSMUSP00000086796	10090.ENSMUSP00000136471	0	0	0.900	0	0.900
